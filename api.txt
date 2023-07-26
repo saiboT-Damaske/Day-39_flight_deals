@@ -1,0 +1,11 @@
+Sheety Flight sheet API:
+
+https://api.sheety.co/153411415a4ee4bc886c9826bd407a4f/flightDeals/prices
+
+
+
+Kiwi Flight Price
+
+AffilID: saibot01141pythonflightdeal
+API Endpoint: "https://api.tequila.kiwi.com/v2"
+Key: 3jb_pMp-KQefZCqyPIKt4QZGF-zs4v89
